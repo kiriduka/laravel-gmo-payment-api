@@ -57,6 +57,7 @@ trait GmoCreditCard
             'ClientField2',
             'ClientField3',
             'ClientFieldFlag',
+            'Token',
             'TokenType',
             'RetUrl'
         ];
